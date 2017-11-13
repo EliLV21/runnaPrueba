@@ -1,4 +1,5 @@
 var gulp = require("gulp");
+var connect = require("gulp-connect");
 
 var rutas = {
 	rutaAssets: 'public/assets',
